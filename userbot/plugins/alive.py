@@ -15,4 +15,4 @@ async def amireallyalive(alive):
                      "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
                      "`Bot created by:` [Akashi](tg://user?id=1089637689)\n"
                      f"`Forked By`: {DEFAULTUSER}\n"
-                     "[Deploy This Userbot](https://github.com/emperorakashi4/HexBot)")
+                     "[Deploy This Userbot](https://github.com/emperor-akashi/HexBot)")
