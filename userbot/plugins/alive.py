@@ -13,6 +13,6 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`Gracias! HexBot Is Alive!!`\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
-                     "`Bot created by:` [Akashi](tg://user?id=1089637689)\n"
+                     "`Bot created by:` [Akashi](tg://user?id=1213031275)\n"
                      f"`Forked By`: {DEFAULTUSER}\n"
                      "[Deploy This Userbot](https://github.com/emperor-akashi/HexBot)")
